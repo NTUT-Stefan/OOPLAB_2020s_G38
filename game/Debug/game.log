@@ -1,0 +1,47 @@
+﻿cl : 命令列 warning D9035: 選項 'Gm' 已被取代，在未來的發行版本中將會移除
+  RedGoblin.cpp
+  GreenGoblin.cpp
+  正在產生程式碼...
+  正在編譯...
+  mygame.cpp
+  gamelib.cpp
+  gameView.cpp
+  game.cpp
+  Shoe.cpp
+  Scarecrow.cpp
+  RedSlime.cpp
+  RandomAttribute.cpp
+  ProtectiveCover.cpp
+  Potion.cpp
+  PlayerStatus.cpp
+  Maps.cpp
+  Map2_4.cpp
+  Map2_3.cpp
+  Map2_2.cpp
+  Map2_1.cpp
+  Map1_4.cpp
+  Map1_3.cpp
+  Map1_2.cpp
+  Map1_1.cpp
+  正在產生程式碼...
+  正在編譯...
+  ItemAttribute.cpp
+  Item.cpp
+  IceBird.cpp
+  Hero.cpp
+  Health.cpp
+  GreenSlime.cpp
+  Enemy.cpp
+  Clock.cpp
+  Character.cpp
+  Box.cpp
+  BossBloodBar.cpp
+  BlueSlime.cpp
+  BlueGoblin.cpp
+  BloodBar.cpp
+  Attack.cpp
+  Arrow.cpp
+  ABoss.cpp
+  正在產生程式碼...
+ABoss.obj : warning LNK4075: 忽略 '/EDITANDCONTINUE'，由於 '/SAFESEH' 規格
+  game.vcxproj -> C:\Users\GameToGo\Desktop\oopcourse851\game\.\Debug\game.exe
